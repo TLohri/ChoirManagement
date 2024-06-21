@@ -23,11 +23,6 @@ namespace ChoirManagement.Controllers
             return View();
         }
 
-        public IActionResult Choir()
-        {
-            return View();
-        }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
