@@ -1,0 +1,142 @@
+<mxfile host="Electron" modified="2025-03-12T21:52:14.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ps8cZXiwlTbWQ8_bKWaU" version="24.2.5" type="device">
+  <diagram name="Page-1" id="vsvX_ZquRymrtnDVPJvU">
+    <mxGraphModel dx="2261" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DLcq2syU67P2mmVrVBjf-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-1" target="DLcq2syU67P2mmVrVBjf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-1" target="DLcq2syU67P2mmVrVBjf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-12" target="DLcq2syU67P2mmVrVBjf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="170" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-1" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-15">
+          <mxGeometry width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-8" value="Next Concert&lt;br&gt;Next Rehearsal&lt;div&gt;Attendance Statistics&lt;/div&gt;&lt;div&gt;Repertoire State&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-15">
+          <mxGeometry x="10" y="30" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-9" value="Enter last rehearsal data (attendance, performance)&lt;div&gt;Enter last concert data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-15">
+          <mxGeometry x="10" y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-270" y="-20" width="145" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-16">
+          <mxGeometry width="145" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-2" value="Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-16">
+          <mxGeometry x="15" y="20" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-6" value="Action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-16">
+          <mxGeometry x="25" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-7" value="Info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-16">
+          <mxGeometry x="25" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="-230" width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-12" value="Rehearsal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-26">
+          <mxGeometry width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-17" value="Rehearsal Info&lt;div&gt;Pieces, past piece performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-26">
+          <mxGeometry x="26.470588235294116" y="29.999999999999996" width="127.05882352941177" height="59.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-18" value="Future Rehearsal:&lt;br&gt;Edit pieces, times&lt;div&gt;Autogenerate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-26">
+          <mxGeometry x="26.470588235294116" y="99.99999999999999" width="127.05882352941177" height="59.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-24" value="Past Rehearsal:&lt;br&gt;Enter Attendance, performance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-26">
+          <mxGeometry x="26.470588235294116" y="169.99999999999997" width="127.05882352941177" height="59.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-27" target="DLcq2syU67P2mmVrVBjf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-27" target="DLcq2syU67P2mmVrVBjf-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-1" target="DLcq2syU67P2mmVrVBjf-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-1" target="DLcq2syU67P2mmVrVBjf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="-150" width="176" height="219.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-4" value="Repertoire" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-40">
+          <mxGeometry width="176" height="219.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-10" value="Active Repertoire&lt;div&gt;Repertoire statistics&lt;/div&gt;&lt;div&gt;Complete Repertoire&lt;/div&gt;&lt;div&gt;Repertoire Tags&lt;/div&gt;&lt;div&gt;Repertoire tag statistics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-40">
+          <mxGeometry x="18" y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-11" value="Plan future repertoire&lt;div&gt;Change active repertoire&lt;/div&gt;&lt;div&gt;edit repertoire state&lt;/div&gt;&lt;div&gt;add repertoire tags&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-40">
+          <mxGeometry x="18" y="120" width="138" height="73.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="20" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-20" value="Long Term Planner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-41">
+          <mxGeometry width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-21" value="Rehearsal plan for current rehearsal phase / phases&lt;div&gt;Rehearsal factor&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-41">
+          <mxGeometry x="30.879999999999995" y="30" width="148.24" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-22" value="Edit pieces for concerts&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-41">
+          <mxGeometry x="30.879999999999995" y="240" width="148.24" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-31" value="&lt;div&gt;Edit Plan/Pieces&lt;/div&gt;Autogenerate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-41">
+          <mxGeometry x="30.879999999999995" y="102" width="148.24" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-32" value="Concerts and pieces for concerts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-41">
+          <mxGeometry x="30.879999999999995" y="170" width="148.24" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="264" y="308" width="150" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-27" value="Concert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-42">
+          <mxGeometry width="150" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-28" value="Pieces for Concert&lt;div&gt;Planned Members&lt;/div&gt;&lt;div&gt;Concert Info&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-42">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-33" value="Edit Concert Info&lt;div&gt;Enter Attendance for past concerts&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-42">
+          <mxGeometry x="15" y="112" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="408" width="250" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-36" value="Concert Assistent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-43">
+          <mxGeometry width="250" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-37" value="Detailed Concert Info&lt;div&gt;Member availabaility&lt;/div&gt;&lt;div&gt;Voice Section Balance&lt;/div&gt;&lt;div&gt;Member concert statistics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-43">
+          <mxGeometry x="15" y="40" width="225" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-38" value="Import Availability&lt;div&gt;Auto select members&lt;/div&gt;&lt;div&gt;Set limits&lt;/div&gt;&lt;div&gt;Select member statistics filter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-43">
+          <mxGeometry x="15" y="132" width="225" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLcq2syU67P2mmVrVBjf-1" target="DLcq2syU67P2mmVrVBjf-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-12" y="390" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-44" value="Statistics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-49">
+          <mxGeometry width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-47" value="Choir statistics&lt;div&gt;Rehearsal&lt;br&gt;&lt;div&gt;Attendance&lt;/div&gt;&lt;div&gt;Concerts&lt;/div&gt;&lt;div&gt;Repertoire&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-49">
+          <mxGeometry x="12" y="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLcq2syU67P2mmVrVBjf-48" value="Set timeframe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DLcq2syU67P2mmVrVBjf-49">
+          <mxGeometry x="12" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
